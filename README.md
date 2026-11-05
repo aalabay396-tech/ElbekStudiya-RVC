@@ -9,7 +9,7 @@
 
 **Ovozingizni yuklang → Model nomini kiriting → Train → ZIP yuklab oling**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ElbekStudiya-RVC/blob/main/ElbekStudiya_RVC_Trainer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aalabay396-tech/ElbekStudiya-RVC/blob/main/ElbekStudiya_RVC_Trainer.ipynb)
 
 </div>
 
@@ -33,7 +33,7 @@
 Yuqoridagi **"Open in Colab"** tugmasini bosing yoki:
 
 ```
-https://colab.research.google.com/github/YOUR_USERNAME/ElbekStudiya-RVC/blob/main/ElbekStudiya_RVC_Trainer.ipynb
+https://colab.research.google.com/github/aalabay396-tech/ElbekStudiya-RVC/blob/main/ElbekStudiya_RVC_Trainer.ipynb
 ```
 
 ### 2. GPU yoqing
